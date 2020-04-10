@@ -6,13 +6,12 @@ On the [map](https://thetateht.github.io/) you can see the numbers of confirmed 
 
 Data are acquired from:
 
-- AT, CZ, DE, NO, PL, SE: https://github.com/covid19-eu-zh/covid19-eu-data.git
-- CH: https://github.com/daenuprobst/covid19-cases-switzerland
+- DE: https://github.com/covid19-eu-zh/covid19-eu-data.git
 - FR: https://github.com/devbab/covid19-France.git
-- USA: https://github.com/nytimes/covid-19-data.git
-- ES: https://github.com/AlbertoCasasOrtiz/Coronavirus-Spain-Dataset
+- ES: https://github.com/victorvicpal/COVID19_es
 - IT: https://github.com/pcm-dpc/COVID-19.git
 - UK: https://github.com/pcm-dpc/COVID-19.git
+- USA: https://github.com/nytimes/covid-19-data.git
 - The rest of the world: https://data.humdata.org/dataset/5dff64bc-a671-48da-aa87-2ca40d7abf02
 
 ### R
