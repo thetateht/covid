@@ -2,7 +2,7 @@
 title: Covid-19 figures
 description: >-
    Plots concerning coronavirus.
-baseurl: "/corona"
+baseurl: "/"
 
 # Build settings
 exclude: ["README.md"]
