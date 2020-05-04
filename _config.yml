@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Covid-19 figures
+description: >-
+   Plots concerning coronavirus.
+baseurl: "/corona"
+
+# Build settings
+exclude: ["README.md"]

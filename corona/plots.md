@@ -1,0 +1,81 @@
+---
+layout: theta
+permalink: /plots/
+---
+
+<br>
+## Choose the region
+<br><br>
+<div class="tab">
+  <button class="tablinks" onclick="openPlot(event, 'big')" id="defaultOpen"> Most affected countries</button>
+  <button class="tablinks" onclick="openPlot(event, 'ceu')"> Western Europe </button>
+  <button class="tablinks" onclick="openPlot(event, 'eeu')"> Eastern Europe </button>
+  <button class="tablinks" onclick="openPlot(event, 'other')"> Other Charts </button>
+</div>
+
+<div id="big" class="tabcontent">
+    <br><br>
+    <img class="center fit" src="./../corona/plots/C19_World.jpg"  alt="plot 1"> 
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_cases.jpg" alt="plot 2" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_log.jpg" alt="plot 3" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_new.jpg" alt="plot 4" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_new2.jpg" alt="plot 5" >
+    <br><br>
+
+ </div>
+
+<div id="ceu" class="tabcontent">
+    <br><br>
+    <img class="center fit" src="./../corona/plots/C19_CEU_cases.jpg" alt="plot 1" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CEU_cases2.jpg" alt="plot 2" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CEU_log.jpg" alt="plot 3" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CEU_new.jpg" alt="plot 4" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CEU_new2.jpg" alt="plot 5" >
+    <br><br>
+
+</div>
+
+<div id="eeu" class="tabcontent">
+    <br><br>
+    <img class="center fit" src="./../corona/plots/C19_EEU_cases.jpg" alt="plot 1" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_EEU_cases2.jpg" alt="plot 2" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_EEU_log.jpg" alt="plot 3" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_EEU_new.jpg" alt="plot 4" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_EEU_new2.jpg" alt="plot 5" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Russia_cases.jpg" alt="plot 6" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Russia_new.jpg" alt="plot 7" >
+    <br><br>
+</div>
+
+<div id="other" class="tabcontent">
+    <br><br>
+    <img class="center fit" src="./../corona/plots/C19_mortality.jpg" alt="plot 1" > 
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 2" >
+    <br><br><br><br>
+
+    <br><br>&nbsp;&nbsp;&nbsp;&nbsp;
+    
+<table class="center fit">
+  <tr>
+    <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 3"> </td>
+    <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort2.jpg" alt="plot 4"> </td> 
+  </tr>
+</table>
+</div>
+<br>
+<div id="top">  <a href="#" class="top"> Back to the top </a></div><br>
