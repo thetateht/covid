@@ -5,7 +5,7 @@ permalink: /plots/
 
 <br>
 ## Choose the region
-<br><br>
+<br>
 <div class="tab">
   <button class="tablinks" onclick="openPlot(event, 'big')" id="defaultOpen"> Most affected countries</button>
   <button class="tablinks" onclick="openPlot(event, 'ceu')"> Western Europe </button>
