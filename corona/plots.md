@@ -10,6 +10,7 @@ permalink: /plots/
   <button class="tablinks" onclick="openPlot(event, 'big')" id="defaultOpen"> Most affected countries</button>
   <button class="tablinks" onclick="openPlot(event, 'ceu')"> Western Europe </button>
   <button class="tablinks" onclick="openPlot(event, 'eeu')"> Eastern Europe </button>
+  <button class="tablinks" onclick="openPlot(event, 'cont')"> Continents </button>
   <button class="tablinks" onclick="openPlot(event, 'other')"> Other Charts </button>
 </div>
 
@@ -59,6 +60,17 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Russia_new.jpg" alt="plot 7" >
     <br><br>
+</div>
+
+<div id="cont" class="tabcontent">
+    <br><br>
+    <img class="center fit" src="./../corona/plots/C19_Continents.jpg" alt="plot 1" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Continents_log.jpg" alt="plot 3" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Continents_new.jpg" alt="plot 4" >
+    <br><br>
+
 </div>
 
 <div id="other" class="tabcontent">
