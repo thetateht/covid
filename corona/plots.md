@@ -55,11 +55,11 @@ permalink: /plots/
     <img class="center fit" src="./../corona/plots/C19_EEU_new.jpg" alt="plot 4" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_EEU_new2.jpg" alt="plot 5" >
-    <br><br><br><br>
+<!--    <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Russia_cases.jpg" alt="plot 6" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Russia_new.jpg" alt="plot 7" >
-    <br><br>
+    <br><br>-->
 </div>
 
 <div id="cont" class="tabcontent">
