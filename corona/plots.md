@@ -11,6 +11,7 @@ permalink: /plots/
   <button class="tablinks" onclick="openPlot(event, 'ceu')"> Western Europe </button>
   <button class="tablinks" onclick="openPlot(event, 'eeu')"> Eastern Europe </button>
   <button class="tablinks" onclick="openPlot(event, 'cont')"> Continents </button>
+  <button class="tablinks" onclick="openPlot(event, 'pol')"> Poland and Switzerland </button>
   <button class="tablinks" onclick="openPlot(event, 'other')"> Other Charts </button>
 </div>
 
@@ -70,9 +71,24 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Continents_new.jpg" alt="plot 4" >
     <br><br>
-
 </div>
 
+<div id="pol" class="tabcontent">
+    <br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH-PL.jpg" alt="plot 1" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH-PL_log.jpg" alt="plot 3" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH-PL_new.jpg" alt="plot 4" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Silesia.jpg" alt="plot 1" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Silesia_log.jpg" alt="plot 3" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" alt="plot 4" >
+    <br><br>
+</div>
+    
 <div id="other" class="tabcontent">
     <br><br>
     <img class="center fit" src="./../corona/plots/C19_mortality.jpg" alt="plot 1" > 
@@ -89,5 +105,6 @@ permalink: /plots/
   </tr>
 </table>
 </div>
+
 <br>
 <div id="top">  <a href="#" class="top"> Back to the top </a></div><br>
