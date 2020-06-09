@@ -26,6 +26,8 @@ permalink: /plots/
     <img class="center fit" src="./../corona/plots/C19_BIG_new.jpg" alt="plot 4" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_new2.jpg" alt="plot 5" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_new-fast.jpg" alt="plot 6" >
     <br><br>
 
  </div>
@@ -41,6 +43,8 @@ permalink: /plots/
     <img class="center fit" src="./../corona/plots/C19_CEU_new.jpg" alt="plot 4" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_CEU_new2.jpg" alt="plot 5" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CEU_new-fast.jpg" alt="plot 6" >
     <br><br>
 
 </div>
@@ -56,20 +60,19 @@ permalink: /plots/
     <img class="center fit" src="./../corona/plots/C19_EEU_new.jpg" alt="plot 4" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_EEU_new2.jpg" alt="plot 5" >
-<!--    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Russia_cases.jpg" alt="plot 6" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Russia_new.jpg" alt="plot 7" >
-    <br><br>-->
+    <img class="center fit" src="./../corona/plots/C19_EEU_new-fast.jpg" alt="plot 6" >
 </div>
 
 <div id="cont" class="tabcontent">
     <br><br>
     <img class="center fit" src="./../corona/plots/C19_Continents.jpg" alt="plot 1" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Continents_log.jpg" alt="plot 3" >
+    <img class="center fit" src="./../corona/plots/C19_Continents_log.jpg" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Continents_new.jpg" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_Continents_new.jpg" alt="plot 3" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Continents_new-plot.jpg" alt="plot 4" >
     <br><br>
 </div>
 
@@ -77,15 +80,17 @@ permalink: /plots/
     <br><br>
     <img class="center fit" src="./../corona/plots/C19_CH-PL.jpg" alt="plot 1" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH-PL_log.jpg" alt="plot 3" >
+    <img class="center fit" src="./../corona/plots/C19_CH-PL_log.jpg" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH-PL_new.jpg" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_CH-PL_new.jpg" alt="plot 3" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia.jpg" alt="plot 1" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia.jpg" alt="plot 4" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_log.jpg" alt="plot 3" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_log.jpg" alt="plot 5" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" alt="plot 6" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg" alt="plot 7" >
     <br><br>
 </div>
     
