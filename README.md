@@ -8,7 +8,7 @@ Data are acquired from:
 
 - AT, CZ, DE, NO, PL, SE: https://github.com/covid19-eu-zh/covid19-eu-data.git
 - CH: https://github.com/daenuprobst/covid19-cases-switzerland
-- ES: https://github.com/victorvicpal/COVID19_es
+- ES: https://github.com/Secuoyas-Experience/covid-19-es
 - IT: https://github.com/pcm-dpc/COVID-19.git
 - UK: https://github.com/pcm-dpc/COVID-19.git
 - USA: https://github.com/nytimes/covid-19-data.git
