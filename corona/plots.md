@@ -32,8 +32,7 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_new-perc.jpg" alt="plot 7" >
     <br><br>
-
- </div>
+</div>
 
 <div id="ceu" class="tabcontent">
     <br><br>
@@ -51,7 +50,6 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_CEU_new-perc.jpg" alt="plot 7" >
     <br><br>
-
 </div>
 
 <div id="eeu" class="tabcontent">
@@ -126,18 +124,17 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 2" >
     <br><br><br><br>
-
-    <br><br>&nbsp;&nbsp;&nbsp;&nbsp;
-    
-<table class="center fit">
+  <table class="center fit">
   <tr>
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 3"> </td>
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort2.jpg" alt="plot 4"> </td> 
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort3.jpg" alt="plot 5"> </td> 
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort4.jpg" alt="plot 6"> </td> 
   </tr>
-</table>
+  </table>
+  <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 7" >
 </div>
 
-<br>
+<br><br><br><br><br>
 <div id="top">  <a href="#" class="top"> Back to the top </a></div><br>
