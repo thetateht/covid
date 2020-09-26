@@ -134,6 +134,8 @@ permalink: /plots/
   </table>
   <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 7" >
+  <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_deaths.jpg" alt="plot 8" >
 </div>
 
 <br><br><br><br><br>
