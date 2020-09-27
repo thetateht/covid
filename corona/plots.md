@@ -124,6 +124,9 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 2" >
     <br><br><br><br>
+    
+   <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 3"> </td>
+<!--
   <table class="center fit">
   <tr>
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 3"> </td>
@@ -132,6 +135,7 @@ permalink: /plots/
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort4.jpg" alt="plot 6"> </td> 
   </tr>
   </table>
+-->
   <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 7" >
   <br><br><br><br>
