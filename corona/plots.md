@@ -122,24 +122,17 @@ permalink: /plots/
     <br><br>
     <img class="center fit" src="./../corona/plots/C19_mortality.jpg" alt="plot 1" > 
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 2" >
+    <img class="center fit" src="./../corona/plots/C19_deaths.jpg" alt="plot 2" >
     <br><br><br><br>
-    
    <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 3"> </td>
-<!--
-  <table class="center fit">
-  <tr>
-    <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 3"> </td>
+<!--   <table class="center fit">  <tr>
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort2.jpg" alt="plot 4"> </td> 
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort3.jpg" alt="plot 5"> </td> 
-    <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort4.jpg" alt="plot 6"> </td> 
-  </tr>
-  </table>
--->
+  </tr>  </table>  -->
+  <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 6" >
   <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 7" >
-  <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_deaths.jpg" alt="plot 8" >
 </div>
 
 <br><br><br><br><br>
