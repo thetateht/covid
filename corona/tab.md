@@ -28,9 +28,9 @@ permalink: /tab/
 <span style="color:red">RED</span>  - mandatory quarantine <br>
 <span style="color:orange">ORANGE</span> - quarantine for selected regions <br>
 <span style="color:green">GREEN</span> - no quarantine required <br>
-BLACK - so far never quarantined <br><br> <br>
+BLACK - so far never quarantined <br><br>
 </p>
-<center><iframe src="./../corona/plots/C19_tab_3.html" style="height: 666px; width:80%;"></iframe></center>
+<center><iframe src="./../corona/plots/C19_tab_3.html" style="height: 555px; width:85%;"></iframe></center>
 </div>
-
+<br>
 <br>
