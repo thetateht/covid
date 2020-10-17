@@ -11,6 +11,7 @@ permalink: /tab/
   <button class="tablinks" onclick="openPlot(event, 'eu')" id="defaultOpen"> All cases</button>
   <button class="tablinks" onclick="openPlot(event, 'wo')"> Daily cases/Population </button>
   <button class="tablinks" onclick="openPlot(event, 'ch')"> Quarantine in CH </button>
+  <button class="tablinks" onclick="openPlot(event, 'al')"> Cases and deaths </button>
 </div>
 
 <div id="eu" class="tabcontent">
@@ -32,5 +33,10 @@ BLACK - so far never quarantined <br><br>
 </p>
 <center><iframe src="./../corona/plots/C19_tab_3.html" style="height: 555px; width:85%;"></iframe></center>
 </div>
+
+<div id="al" class="tabcontent">
+<center><iframe src="./../corona/plots/C19_tab_4.html" style="height: 666px; width:85%;"></iframe></center>
+</div>
+
 <br>
 <br>
