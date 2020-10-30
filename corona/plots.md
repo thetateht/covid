@@ -119,7 +119,11 @@ permalink: /plots/
 </div>
     
 <div id="other" class="tabcontent">
-    <br><br>
+  <br><br>
+    <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 7" >
+  <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 6" >
+    <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_mortality.jpg" alt="plot 1" > 
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_deaths.jpg" alt="plot 2" >
@@ -129,10 +133,6 @@ permalink: /plots/
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort2.jpg" alt="plot 4"> </td> 
     <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort3.jpg" alt="plot 5"> </td> 
   </tr>  </table>  -->
-  <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 6" >
-  <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 7" >
 </div>
 
 <br><br><br><br><br>
