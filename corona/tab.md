@@ -31,7 +31,7 @@ permalink: /tab/
 <span style="color:green">GREEN</span> - no quarantine required <br>
 BLACK - so far never quarantined <br><br>
 </p>
-<center><iframe src="./../corona/plots/C19_tab_3.html" style="height: 555px; width:85%;"></iframe></center>
+<center><iframe src="./../corona/plots/C19_tab_3.html" style="height: 555px; width:95%;"></iframe></center>
 </div>
 
 <div id="al" class="tabcontent">
