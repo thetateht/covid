@@ -18,9 +18,11 @@ permalink: /plots/
 
 <div id="big" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_World.jpg"  alt="plot 1"> 
+    <img class="center fit" src="./../corona/plots/C19_BIG_0.jpg"  alt="plot 0"> 
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_BIG_cases.jpg" alt="plot 2" >
+    <img class="center fit" src="./../corona/plots/C19_BIG_1.jpg" alt="plot 1" >
+        <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_2.jpg" alt="plot 2" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_log.jpg" alt="plot 3" >
     <br><br><br><br>

@@ -24,7 +24,8 @@ permalink: /tab/
 
 
 <div id="ch" class="tabcontent">
-<h2>Table with new cases daily (flattened by the biweekly average) with information about quarantine obligation in Switzerland</h2>
+<h2>New cases daily per 100K (flattened by the biweekly average)
+<br>with information about quarantine obligation in Switzerland</h2>
 <p>
 <span style="color:red">RED</span>  - mandatory quarantine <br>
 <span style="color:orange">ORANGE</span> - quarantine for selected regions <br>
