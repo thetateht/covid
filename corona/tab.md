@@ -24,14 +24,20 @@ permalink: /tab/
 
 
 <div id="ch" class="tabcontent">
-<h2>New cases daily per 100K (flattened by the biweekly average)
-<br>with information about quarantine obligation in Switzerland</h2>
-<p>
-<span style="color:red">RED</span>  - mandatory quarantine <br>
-<span style="color:orange">ORANGE</span> - quarantine for selected regions <br>
-<span style="color:green">GREEN</span> - no quarantine required <br>
-BLACK - so far never quarantined <br><br>
-</p>
+<center>
+<table><tr>
+ <td>
+   <p> New cases daily per 100K (flattened by the biweekly average) <br>
+        with information about quarantine obligation in Switzerland &emsp;&emsp;</p>
+ </td><td>
+   <span style="color:red">RED</span>  - mandatory quarantine <br>
+   <span style="color:green">GREEN</span> - no quarantine required &emsp;
+ </td><td>
+   <span style="color:orange">ORANGE</span> - quarantine for selected regions<br>
+   BLACK - so far never quarantined
+ </td>
+</tr></table>
+</center>
 <center><iframe src="./../corona/plots/C19_tab_3.html" style="height: 555px; width:95%;"></iframe></center>
 </div>
 
