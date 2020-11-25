@@ -117,6 +117,11 @@ permalink: /plots/
     <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" alt="plot 6" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg" alt="plot 7" >
+    <br><br><br><br>
+    <center>
+    <!--<h2 style="color:darkblue"> Interactive chart with Polish voivodeships </h2>-->
+    <embed src="./../corona/plots/C19_PL.html" width="95%" height="900" /> 
+    </center> 
     <br><br>
 </div>
     
