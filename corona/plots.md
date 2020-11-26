@@ -24,7 +24,7 @@ permalink: /plots/
         <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_2.jpg" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_BIG_log.jpg" alt="plot 3" >
+    <center><embed src="./../corona/plots/C19_log_BIG.html" width="95%" height="800" /> </center> 
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_new.jpg" alt="plot 4" >
     <br><br><br><br>
@@ -42,7 +42,7 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_CEU_cases2.jpg" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CEU_log.jpg" alt="plot 3" >
+    <center><embed src="./../corona/plots/C19_log_CEU.html" width="95%" height="880" /> </center> 
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_CEU_new.jpg" alt="plot 4" >
     <br><br><br><br>
@@ -60,7 +60,7 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_EEU_cases2.jpg" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_EEU_log.jpg" alt="plot 3" >
+    <center><embed src="./../corona/plots/C19_log_EEU.html" width="95%" height="950" /> </center> 
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_EEU_new.jpg" alt="plot 4" >
     <br><br><br><br>
@@ -79,7 +79,7 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_EU_CH_UK_cases3.jpg" alt="plot 3" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_EU_CH_UK_log.jpg" alt="plot 35" >
+    <center><embed src="./../corona/plots/C19_log_EU.html" width="95%" height="1150" /> </center> 
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_EU_CH_UK_new.jpg" alt="plot 4" >
     <br><br><br><br>
@@ -92,36 +92,36 @@ permalink: /plots/
 
 <div id="cont" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_Continents.jpg" alt="plot 1" >
+    <img class="center fit" src="./../corona/plots/C19_Continents.jpg" width="80%" alt="plot 1" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Continents_log.jpg" alt="plot 2" >
+    <center><embed src="./../corona/plots/C19_log_Cont.html" width="80%" height="650" /> </center> 
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Continents_new.jpg" alt="plot 3" >
+    <img class="center fit" src="./../corona/plots/C19_Continents_new.jpg" width="80%"  alt="plot 3" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Continents_new-plot.jpg" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_Continents_new-plot.jpg" width="80%" alt="plot 4" >
     <br><br>
 </div>
 
 <div id="pol" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH-PL.jpg" alt="plot 1" >
+    <img class="center fit" src="./../corona/plots/C19_CH-PL.jpg" width="80%" height="700"  alt="plot 1" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH-PL_log.jpg" alt="plot 2" >
+    <img class="center fit" src="./../corona/plots/C19_CH-PL_log.jpg"  width="80%" height="650" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH-PL_new.jpg" alt="plot 3" >
+    <img class="center fit" src="./../corona/plots/C19_CH-PL_new.jpg" width="80%" alt="plot 3" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia.jpg" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia.jpg" width="80%" height="700" alt="plot 4" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_log.jpg" alt="plot 5" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_log.jpg" width="80%" height="700" alt="plot 5" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" alt="plot 6" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" width="80%" alt="plot 6" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg" alt="plot 7" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg"  width="80%" height="700" alt="plot 7" >
     <br><br><br><br>
-    <center>
-    <!--<h2 style="color:darkblue"> Interactive chart with Polish voivodeships </h2>-->
-    <embed src="./../corona/plots/C19_PL.html" width="95%" height="900" /> 
-    </center> 
+    <center> <!--<h2 style="color:darkblue"> Interactive chart with Polish voivodeships </h2>-->
+             <embed src="./../corona/plots/C19_PL.html" width="80%" height="750" /> </center> 
+    <br><br><br><br>
+    <center> <embed src="./../corona/plots/C19_log_Reg.html" width="80%" height="700" /> </center> 
     <br><br>
 </div>
     
