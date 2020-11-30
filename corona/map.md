@@ -9,7 +9,7 @@ permalink: /map/
   <button class="tablinks" onclick="openPlot(event, 'wo')" id="defaultOpen"> World - with ranking </button>
   <button class="tablinks" onclick="openPlot(event, 'eu')"> Europe - detailed</button>
   <button class="tablinks" onclick="openPlot(event, 'us')"> USA - detailed</button>
-  <button class="tablinks" onclick="openPlot(event, 'ch')"> Canton Zurich</button>
+  <button class="tablinks" onclick="openPlot(event, 'ch')"> Canton of Zurich</button>
 </div>
 
 <div id="eu" class="tabcontent">
