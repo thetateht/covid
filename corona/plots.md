@@ -136,10 +136,9 @@ permalink: /plots/
     <img class="center fit" src="./../corona/plots/C19_deaths.jpg" alt="plot 2" >
     <br><br><br><br>
    <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 3"> </td>
-<!--   <table class="center fit">  <tr>
-    <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort2.jpg" alt="plot 4"> </td> 
-    <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort3.jpg" alt="plot 5"> </td> 
-  </tr>  </table>  -->
+    <br><br><br><br>
+    <center> <embed src="./../corona/plots/C19_dots.html" width="95%" height="800" /> </center> 
+    <br><br>
 </div>
 
 <br><br><br><br><br>
