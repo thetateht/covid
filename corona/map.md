@@ -13,19 +13,19 @@ permalink: /map/
 </div>
 
 <div id="eu" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_map_EU.html" height="666" width="100%"></iframe></center>
+<center><iframe src="./../corona/plots/C19_map_EU.html" height="730" width="100%"></iframe></center>
 </div>
 
 <div id="us" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_map_USA.html" height="666" width="100%"></iframe></center>
+<center><iframe src="./../corona/plots/C19_map_USA.html" height="730" width="100%"></iframe></center>
 </div>
 
 <div id="wo" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_map_WORLD.html"  height="666" width="100%"></iframe></center>
+<center><iframe src="./../corona/plots/C19_map_WORLD.html"  height="730" width="100%"></iframe></center>
 </div>
 
 <div id="ch" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_map_ZH.html"  height="666" width="100%"></iframe></center>
+<center><iframe src="./../corona/plots/C19_map_ZH.html"  height="730" width="100%"></iframe></center>
 </div>
 
 <br>
