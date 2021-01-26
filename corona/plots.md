@@ -12,7 +12,8 @@ permalink: /plots/
   <button class="tablinks" onclick="openPlot(event, 'eeu')"> Eastern Europe </button>
   <button class="tablinks" onclick="openPlot(event, 'eu')"> European Union </button>
   <button class="tablinks" onclick="openPlot(event, 'cont')"> Continents </button>
-  <button class="tablinks" onclick="openPlot(event, 'pol')"> Poland and Switzerland </button>
+  <button class="tablinks" onclick="openPlot(event, 'pol')"> Poland </button>
+  <button class="tablinks" onclick="openPlot(event, 'ch')"> Switzerland </button>
   <button class="tablinks" onclick="openPlot(event, 'other')"> Other Charts </button>
 </div>
 
@@ -104,12 +105,6 @@ permalink: /plots/
 
 <div id="pol" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH-PL.jpg" width="80%" height="700"  alt="plot 1" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH-PL_log.jpg"  width="80%" height="650" alt="plot 2" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH-PL_new.jpg" width="80%" alt="plot 3" >
-    <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia.jpg" width="80%" height="700" alt="plot 4" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia_log.jpg" width="80%" height="700" alt="plot 5" >
@@ -124,7 +119,23 @@ permalink: /plots/
     <center> <embed src="./../corona/plots/C19_log_Reg.html" width="80%" height="700" /> </center> 
     <br><br>
 </div>
-    
+
+<div id="ch" class="tabcontent">
+    <br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH.jpg" width="80%" height="700" alt="plot 4" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH_log.jpg" width="80%" height="700" alt="plot 5" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_1.jpg" width="80%" alt="plot 6" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_2.jpg" width="80%" alt="plot 6" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_3.jpg" width="80%" alt="plot 6" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH_new_plot.jpg"  width="80%" height="700" alt="plot 7" >
+    <br><br>
+</div>
+
 <div id="other" class="tabcontent">
   <br><br>
     <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 7" >
