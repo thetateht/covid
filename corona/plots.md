@@ -111,6 +111,8 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" width="80%" alt="plot 6" >
     <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new2.jpg" width="80%" alt="plot 6" >
+    <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg"  width="80%" height="700" alt="plot 7" >
     <br><br><br><br>
     <center> <!--<h2 style="color:darkblue"> Interactive chart with Polish voivodeships </h2>-->
@@ -128,11 +130,11 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_CH_new_charts_1.jpg" width="80%" alt="plot 6" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_2.jpg" width="80%" alt="plot 6" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_3.jpg" width="80%" alt="plot 6" >
+    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_2.jpg" width="80%" alt="plot 6b" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_CH_new_plot.jpg"  width="80%" height="700" alt="plot 7" >
+        <br><br><br><br>
+    <center> <embed src="./../corona/plots/C19_log_CH-cant.html" width="80%" height="700" /> </center> 
     <br><br>
 </div>
 
