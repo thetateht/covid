@@ -4,6 +4,7 @@ permalink: /tab/
 ---
 
 <br>
+
 <div class="tab">
   <button class="tablinks" onclick="openPlot(event, 'eu')" id="defaultOpen"> All cases</button>
   <button class="tablinks" onclick="openPlot(event, 'wo')"> Daily cases/Population </button>
