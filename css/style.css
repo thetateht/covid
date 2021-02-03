@@ -4,7 +4,7 @@ topli {list-style-type: none;   background-color:#FFFFFF;   margin:0 ;  padding:
        overflow:hidden; top:0;  width:100%; float: left; display: inline;  font-size: 17px;}
 rli { float: right; }
 rli a { display:block;   color:black;   padding:6px 16px;  text-decoration:none; }
-a.active { background-color: lightgrey;} 
+rli a.active { background-color: green;} 
 rli a:hover:not(.active) { background-color: lightgrey; }
 
 /*home page menu*/

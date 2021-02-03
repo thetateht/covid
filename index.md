@@ -2,7 +2,7 @@
 layout: theta
 ---
 <br>
-## Choose visualization type.
+### Choose visualization type.
 <br>
 <table class="center fit">
   <tr>

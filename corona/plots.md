@@ -3,8 +3,7 @@ layout: theta
 permalink: /plots/
 ---
 
-<br>
-## Choose the region
+
 <br>
 <div class="tab">
   <button class="tablinks" onclick="openPlot(event, 'big')" id="defaultOpen"> Most affected countries</button>
