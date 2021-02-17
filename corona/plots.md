@@ -12,6 +12,7 @@ permalink: /plots/
   <button class="tablinks" onclick="openPlot(event, 'cont')" id="continents"> Continents </button>
   <button class="tablinks" onclick="openPlot(event, 'pol')" id="poland"> Poland </button>
   <button class="tablinks" onclick="openPlot(event, 'ch')" id="swiss"> Switzerland </button>
+  <button class="tablinks" onclick="openPlot(event, 'nz')" id="choosen"> Choosen countries </button>
   <button class="tablinks" onclick="openPlot(event, 'other')" id="others"> Other Charts </button>
 </div>
 
@@ -119,15 +120,15 @@ permalink: /plots/
 
 <div id="pol" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia.jpg" width="80%" height="700" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia.jpg" width="80%" height="700" alt="plot 1" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_log.jpg" width="80%" height="700" alt="plot 5" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_log.jpg" width="80%" height="700" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" width="80%" alt="plot 6" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new.jpg" width="80%" alt="plot 3" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_new2.jpg" width="80%" alt="plot 6" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new2.jpg" width="80%" alt="plot 4" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg"  width="80%" height="700" alt="plot 7" >
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg"  width="80%" height="700" alt="plot 5" >
     <br><br><br><br>
     <center> <!--<h2 style="color:darkblue"> Interactive chart with Polish voivodeships </h2>-->
              <embed src="./../corona/plots/C19_PL.html" width="80%" height="750" /> </center> 
@@ -141,38 +142,51 @@ permalink: /plots/
 
 <div id="ch" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH.jpg" width="80%" height="700" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_CH.jpg" width="80%" height="700" alt="plot 1" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH_log.jpg" width="80%" height="700" alt="plot 5" >
+    <img class="center fit" src="./../corona/plots/C19_CH_log.jpg" width="80%" height="700" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_1.jpg" width="80%" alt="plot 6" >
+    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_1.jpg" width="80%" alt="plot 3" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_2.jpg" width="80%" alt="plot 6b" >
+    <img class="center fit" src="./../corona/plots/C19_CH_new_charts_2.jpg" width="80%" alt="plot 3b" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_CH_new_plot.jpg"  width="80%" height="700" alt="plot 7" >
+    <img class="center fit" src="./../corona/plots/C19_CH_new_plot.jpg"  width="80%" height="700" alt="plot 4" >
         <br><br><br><br>
     <center> <embed src="./../corona/plots/C19_log_CH-cant.html" width="80%" height="700" /> </center> 
     <br><br>
     <p id="top"> <a href="#" class="top" onclick="document.getElementById('poland').click()"> < Previous </a> &nbsp;&nbsp; 
+                 <a href="#" class="top"> Back to the top </a> &nbsp;&nbsp; 
+                 <a href="#" class="top" onclick="document.getElementById('choosen').click()"> Next > </a> </p>
+</div>
+
+<div id="nz" class="tabcontent">
+    <br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Israel.jpg" width="80%" height="400" alt="plot 1" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="400" alt="plot 2" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="400" alt="plot 3" >
+    <br><br>
+    <p id="top"> <a href="#" class="top" onclick="document.getElementById('swiss').click()"> < Previous </a> &nbsp;&nbsp; 
                  <a href="#" class="top"> Back to the top </a> &nbsp;&nbsp; 
                  <a href="#" class="top" onclick="document.getElementById('others').click()"> Next > </a> </p>
 </div>
 
 <div id="other" class="tabcontent">
   <br><br>
-    <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 7" >
+    <img class="center fit" src="./../corona/plots/C19_percent_weekly.jpg" alt="plot 1" >
   <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 6" >
+    <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_mortality.jpg" alt="plot 1" > 
+    <img class="center fit" src="./../corona/plots/C19_mortality.jpg" alt="plot 3" > 
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_deaths.jpg" alt="plot 2" >
+    <img class="center fit" src="./../corona/plots/C19_deaths.jpg" alt="plot 4" >
     <br><br><br><br>
-   <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 3"> </td>
+   <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 5"> </td>
     <br><br><br><br>
     <center> <embed src="./../corona/plots/C19_dots.html" width="95%" height="800" /> </center> 
     <br><br>
-    <p id="top"> <a href="#" class="top" onclick="document.getElementById('swiss').click()"> < Previous </a> &nbsp;&nbsp; 
+    <p id="top"> <a href="#" class="top" onclick="document.getElementById('choosen').click()"> < Previous </a> &nbsp;&nbsp; 
                  <a href="#" class="top"> Back to the top </a> </p>
 </div>
 
