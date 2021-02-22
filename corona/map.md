@@ -12,6 +12,7 @@ permalink: /map/
   <button class="tablinks" onclick="openPlot(event, 'us')" style="color:#0033cc"> <b> USA </b> - detailed</button>
   <button class="tablinks" onclick="openPlot(event, 'us_2')" style="color:#0033cc"> <b> USA </b> - increments</button>
   <button class="tablinks" onclick="openPlot(event, 'ch')" style="color:#003300">  <b> Canton of Zurich </b> - increments</button>
+  <button class="tablinks" onclick="openPlot(event, 'pl')" style="color:#003300">  <b> Polish powiats </b> - increments</button>
 </div>
 
 <div id="wo" class="tabcontent">
@@ -40,6 +41,10 @@ permalink: /map/
 
 <div id="ch" class="tabcontent">
 <center><iframe src="./../corona/plots/C19_map_ZH.html"  height="730" width="100%"></iframe></center>
+</div>
+
+<div id="pl" class="tabcontent">
+<center><iframe src="./../corona/plots/C19_map_PL.html"  height="730" width="100%"></iframe></center>
 </div>
 
 <br>
