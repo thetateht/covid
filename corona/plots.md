@@ -12,7 +12,7 @@ permalink: /plots/
   <button class="tablinks" onclick="openPlot(event, 'cont')" id="continents"> Continents </button>
   <button class="tablinks" onclick="openPlot(event, 'pol')" id="poland"> Poland </button>
   <button class="tablinks" onclick="openPlot(event, 'ch')" id="swiss"> Switzerland </button>
-  <button class="tablinks" onclick="openPlot(event, 'nz')" id="choosen"> Choosen countries </button>
+  <button class="tablinks" onclick="openPlot(event, 'nz')" id="choosen">New cases <br> <small>selected countries</small> </button>
   <button class="tablinks" onclick="openPlot(event, 'other')" id="others"> Other Charts </button>
 </div>
 
@@ -161,11 +161,25 @@ permalink: /plots/
 
 <div id="nz" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Israel.jpg" width="80%" height="400" alt="plot 1" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Poland.jpg" width="80%" height="400" alt="plot 1" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="400" alt="plot 2" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Switzerland.jpg" width="80%" height="400" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="400" alt="plot 3" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Czechia.jpg" width="80%" height="400" alt="plot 3" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Germany.jpg" width="80%" height="400" alt="plot 4" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Israel.jpg" width="80%" height="400" alt="plot 5" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_United_Kingdom.jpg" width="80%" height="400" alt="plot 6" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_United_States.jpg" width="80%" height="400" alt="plot 7" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_India.jpg" width="80%" height="400" alt="plot 8" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="400" alt="plot 9" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="400" alt="plot 10" >
     <br><br>
     <p id="top"> <a href="#" class="top" onclick="document.getElementById('swiss').click()"> < Previous </a> &nbsp;&nbsp; 
                  <a href="#" class="top"> Back to the top </a> &nbsp;&nbsp; 
