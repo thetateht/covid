@@ -11,8 +11,8 @@ permalink: /map/
   <button class="tablinks" onclick="openPlot(event, 'eu_2')" style="color:#000088"> <b> Europe </b> - two weeks</button>
   <button class="tablinks" onclick="openPlot(event, 'us')" style="color:#0033cc"> <b> USA </b> </button>
   <button class="tablinks" onclick="openPlot(event, 'us_2')" style="color:#0033cc"> <b> USA </b> - two weeks</button>
-  <button class="tablinks" onclick="openPlot(event, 'pl')" style="color:#003300">  <b> Polish powiats </b> - two weeks</button>
-  <button class="tablinks" onclick="openPlot(event, 'ch')" style="color:#003300">  <b> Canton of Zurich </b> - two weeks</button>
+  <button class="tablinks" onclick="openPlot(event, 'pl')" style="color:#005500">  <b> Polish powiats </b> - two weeks</button>
+  <button class="tablinks" onclick="openPlot(event, 'ch')" style="color:#005500">  <b> Canton of Zurich </b> - two weeks</button>
 </div>
 
 <div id="wo" class="tabcontent">
