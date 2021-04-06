@@ -196,9 +196,9 @@ permalink: /plots/
   <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_percent.jpg" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_mortality.jpg" alt="plot 3" > 
+    <img class="center fit" src="./../corona/plots/C19_mortality.jpg" width="80%" alt="plot 3" > 
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_deaths.jpg" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_deaths.jpg" width="80%" alt="plot 4" >
     <br><br><br><br>
   <!-- <td> <img  class="center fit" src="./../corona/plots/C19_recov_mort.jpg" alt="plot 5"> </td>
     <br><br><br><br> -->
