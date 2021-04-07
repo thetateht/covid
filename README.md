@@ -1,6 +1,6 @@
 ## Covid-19 plots and maps
 
-Charts, tables and maps demonstrated [here](https://thetateht.github.io/) give us quite a complete picture of the development of the coronavirus in the world.
+Charts, tables and maps demonstrated [here](https://thetateht.github.io/covid/) give us quite a complete picture of the development of the coronavirus in the world.
 
 ### Data
 
