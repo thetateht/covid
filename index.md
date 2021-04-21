@@ -8,7 +8,7 @@ layout: theta
   <tr>
     <td> 
       <abbr title="Plots of the virus developement"> <lli> <a href="plots">
-      <big> Plots </big> <br> <img  class="center fit" src="corona/plots/C19_anim_2.gif" alt="Plots" width = "450"> 
+      <big> Plots </big> <br> <img  class="center fit" src="corona/plots/plots-anim_mini.gif" alt="Plots" width = "450"> 
       </a></lli> </abbr>
     </td>
     <td> 
