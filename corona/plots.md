@@ -130,6 +130,8 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg"  width="80%" height="700" alt="plot 5" >
     <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_Silesia_new-fast.jpg"  width="80%" height="700" alt="plot 6" >
+    <br><br><br><br>
   <!--  <center> <h2 style="color:darkblue"> Interactive chart with Polish voivodeships </h2>
              <embed src="./../corona/plots/C19_PL.html" width="80%" height="750" /> </center> 
     <br><br><br><br> -->
@@ -151,7 +153,9 @@ permalink: /plots/
     <img class="center fit" src="./../corona/plots/C19_CH_new_charts_2.jpg" width="80%" alt="plot 3b" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_CH_new_plot.jpg"  width="80%" height="700" alt="plot 4" >
-        <br><br><br><br>
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_CH_new_fast.jpg"  width="80%" height="700" alt="plot 5" >
+    <br><br><br><br>
     <center> <embed src="./../corona/plots/C19_log_CH-cant.html" width="80%" height="700" /> </center> 
     <br><br>
     <p id="top"> <a href="#" class="top" onclick="document.getElementById('poland').click()"> < Previous </a> &nbsp;&nbsp; 
