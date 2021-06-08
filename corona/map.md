@@ -7,6 +7,7 @@ permalink: /map/
 <div class="tab">
   <button class="tablinks" onclick="openPlot(event, 'wo')" id="defaultOpen"> <b> World </b> - with ranking </button>
   <button class="tablinks" onclick="openPlot(event, 'wo_2')"> <b> World </b> - two weeks</button>
+  <button class="tablinks" onclick="openPlot(event, 'wo_3')"> <b> World </b> - vaccination</button>
   <button class="tablinks" onclick="openPlot(event, 'eu')" style="color:#000088"> <b> Europe </b> </button>
   <button class="tablinks" onclick="openPlot(event, 'eu_2')" style="color:#000088"> <b> Europe </b> - two weeks</button>
   <button class="tablinks" onclick="openPlot(event, 'us')" style="color:#0033cc"> <b> USA </b> </button>
@@ -21,6 +22,10 @@ permalink: /map/
 
 <div id="wo_2" class="tabcontent">
 <center><iframe src="./../corona/plots/C19_map_WORLD_2weeks.html"  height="730" width="100%"></iframe></center>
+</div>
+
+<div id="wo_3" class="tabcontent">
+<center><iframe src="./../corona/plots/C19_map_WORLD_vaccination.html"  height="730" width="100%"></iframe></center>
 </div>
 
 <div id="eu" class="tabcontent">
