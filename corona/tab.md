@@ -9,6 +9,7 @@ permalink: /tab/
   <button class="tablinks" onclick="openPlot(event, 'eu')" id="defaultOpen"> All cases</button>
   <button class="tablinks" onclick="openPlot(event, 'wo')"> Daily cases </button>
   <button class="tablinks" onclick="openPlot(event, 'deaths')"> Daily deaths </button>
+  <button class="tablinks" onclick="openPlot(event, 'vacc')"> Daily vaccinations </button>
   <button class="tablinks" onclick="openPlot(event, 'ch')"> Quarantine in CH </button>
   <button class="tablinks" onclick="openPlot(event, 'al')"> Collected data </button>
   <button class="tablinks" onclick="openPlot(event, 'pol')"> Poland </button>
@@ -24,6 +25,10 @@ permalink: /tab/
 
 <div id="deaths" class="tabcontent">
 <center><iframe src="./../corona/plots/C19_tab_2B.html" style="height: 666px; width:80%;"></iframe></center>
+</div>
+
+<div id="vacc" class="tabcontent">
+<center><iframe src="./../corona/plots/C19_tab_vacc.html" style="height: 666px; width:80%;"></iframe></center>
 </div>
 
 <div id="ch" class="tabcontent">
