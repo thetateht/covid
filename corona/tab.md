@@ -20,15 +20,15 @@ permalink: /tab/
 </div>
 
 <div id="wo" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_tab_2.html" style="height: 666px; width:80%;"></iframe></center>
+<center><iframe src="./../corona/plots/C19_tab_2.html" style="height: 666px; width:95%;"></iframe></center>
 </div>
 
 <div id="deaths" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_tab_2B.html" style="height: 666px; width:80%;"></iframe></center>
+<center><iframe src="./../corona/plots/C19_tab_2B.html" style="height: 666px; width:95%;"></iframe></center>
 </div>
 
 <div id="vacc" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_tab_vacc.html" style="height: 666px; width:80%;"></iframe></center>
+<center><iframe src="./../corona/plots/C19_tab_vacc.html" style="height: 666px; width:95%;"></iframe></center>
 </div>
 
 <div id="ch" class="tabcontent">
@@ -47,11 +47,11 @@ permalink: /tab/
 </div>
 
 <div id="al" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_tab_4.html" style="height: 666px; width:85%;"></iframe></center>
+<center><iframe src="./../corona/plots/C19_tab_4.html" style="height: 666px; width:95%;"></iframe></center>
 </div>
 
 <div id="pol" class="tabcontent">
-<center><iframe src="./../corona/plots/C19_tab_5_PL_powiats.html" style="height: 666px; width:85%;"></iframe></center>
+<center><iframe src="./../corona/plots/C19_tab_5_PL_powiats.html" style="height: 666px; width:95%;"></iframe></center>
 </div>
 
 <br>
