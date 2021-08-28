@@ -183,13 +183,15 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_United_States.jpg" width="80%" height="500" alt="plot 9" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_India.jpg" width="80%" height="400" alt="plot 10" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Mexico.jpg" width="80%" height="400" alt="plot 9" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="500" alt="plot 11" >
+    <img class="center fit" src="./../corona/plots/C19_daily_India.jpg" width="80%" height="500" alt="plot 10" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="400" alt="plot 12" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="400" alt="plot 11" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="500" alt="plot 12" >
         <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Nepal.jpg" width="80%" height="500" alt="plot 13" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Nepal.jpg" width="80%" height="400" alt="plot 13" >
     <br><br>
     <p id="top"> <a href="#" class="top" onclick="document.getElementById('swiss').click()"> < Previous </a> &nbsp;&nbsp; 
                  <a href="#" class="top"> Back to the top </a> &nbsp;&nbsp; 
