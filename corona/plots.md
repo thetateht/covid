@@ -193,9 +193,11 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Nepal.jpg" width="80%" height="400" alt="plot 13" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Slovakia.jpg" width="80%" height="500" alt="plot 12" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Slovakia.jpg" width="80%" height="500" alt="plot 14" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Australia.jpg" width="80%" height="400" alt="plot 13" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Australia.jpg" width="80%" height="400" alt="plot 15" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Spain.jpg" width="80%" height="500" alt="plot 16" >
     <br><br>
     <p id="top"> <a href="#" class="top" onclick="document.getElementById('swiss').click()"> < Previous </a> &nbsp;&nbsp; 
                  <a href="#" class="top"> Back to the top </a> &nbsp;&nbsp; 
