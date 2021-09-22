@@ -165,39 +165,39 @@ permalink: /plots/
 
 <div id="nz" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Switzerland.jpg" width="80%" height="500" alt="plot 1" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Switzerland.jpg" width="80%" height="400" alt="plot 1" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Poland.jpg" width="80%" height="400" alt="plot 2" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Czechia.jpg" width="80%" height="500" alt="plot 3" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Czechia.jpg" width="80%" height="400" alt="plot 3" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Hungary.jpg" width="80%" height="400" alt="plot 4" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Slovakia.jpg" width="80%" height="400" alt="plot 4" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Romania.jpg" width="80%" height="500" alt="plot 5" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Hungary.jpg" width="80%" height="400" alt="plot 14" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Romania.jpg" width="80%" height="400" alt="plot 5" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Germany.jpg" width="80%" height="400" alt="plot 6" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Israel.jpg" width="80%" height="500" alt="plot 7" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Spain.jpg" width="80%" height="400" alt="plot 16" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_United_Kingdom.jpg" width="80%" height="400" alt="plot 8" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_United_States.jpg" width="80%" height="500" alt="plot 9" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Mexico.jpg" width="80%" height="400" alt="plot 9" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_India.jpg" width="80%" height="500" alt="plot 10" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="400" alt="plot 11" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="500" alt="plot 12" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Nepal.jpg" width="80%" height="400" alt="plot 13" >
-    <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Slovakia.jpg" width="80%" height="500" alt="plot 14" >
+    <img class="center fit" src="./../corona/plots/C19_daily_United_States.jpg" width="80%" height="400" alt="plot 9" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Australia.jpg" width="80%" height="400" alt="plot 15" >
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Spain.jpg" width="80%" height="500" alt="plot 16" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Mexico.jpg" width="80%" height="400" alt="plot 9" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_India.jpg" width="80%" height="400" alt="plot 10" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Israel.jpg" width="80%" height="400" alt="plot 7" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="400" alt="plot 11" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="400" alt="plot 12" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Nepal.jpg" width="80%" height="400" alt="plot 13" >
     <br><br>
     <p id="top"> <a href="#" class="top" onclick="document.getElementById('swiss').click()"> < Previous </a> &nbsp;&nbsp; 
                  <a href="#" class="top"> Back to the top </a> &nbsp;&nbsp; 
