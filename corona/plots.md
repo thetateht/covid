@@ -164,8 +164,8 @@ permalink: /plots/
 </div>
 
 <div id="nz" class="tabcontent">
-    <br><br>
-    <img class="center fit" src="./../corona/plots/C19_daily_Switzerland.jpg" width="80%" height="400" alt="plot 1" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Switzerland.jpg" width="80%" height="500" alt="plot 1" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Poland.jpg" width="80%" height="400" alt="plot 2" >
     <br><br><br><br>
