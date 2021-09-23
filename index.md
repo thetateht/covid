@@ -24,8 +24,10 @@ layout: theta
 
   </tr>
 </table>
-
-
+<br>
+Updated on
+<br>
+<embed src="corona/plots/time.txt">
 
 
 
