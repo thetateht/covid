@@ -128,6 +128,8 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia_new2.jpg" width="80%" alt="plot 4" >
     <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_PL_new-short.jpg" width="80%" height="600" alt="plot 34" >
+    <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia_new-plot.jpg"  width="80%" height="700" alt="plot 5" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_Silesia_new-fast.jpg"  width="80%" height="700" alt="plot 6" >
