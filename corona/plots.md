@@ -18,10 +18,12 @@ permalink: /plots/
 
 <div id="big" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_BIG_0.jpg"  alt="plot 0"> 
+    <img class="center fit" src="./../corona/plots/C19_BIG_0.jpg"  alt="plot 0a"> 
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_0b.jpg"  alt="plot 0b"> 
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_1.jpg" alt="plot 1" >
-        <br><br><br><br>
+    <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_2.jpg" alt="plot 2" >
     <br><br><br><br>
    <!-- <center><embed src="./../corona/plots/C19_log_BIG.html" width="95%" height="800" /> </center> 
