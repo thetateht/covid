@@ -191,6 +191,8 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Spain.jpg" width="80%" height="400" alt="es" >
     <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_Andorra.jpg" width="80%" height="400" alt="au" >
+    <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_United_Kingdom.jpg" width="80%" height="400" alt="uk" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Israel.jpg" width="80%" height="400" alt="il" >
@@ -204,6 +206,8 @@ permalink: /plots/
     <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="400" alt="nz" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Australia.jpg" width="80%" height="400" alt="au" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_daily_South_Africa.jpg" width="80%" height="400" alt="au" >
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_daily_Mexico.jpg" width="80%" height="400" alt="mx" >
     <br><br><br><br>
