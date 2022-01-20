@@ -12,7 +12,7 @@ permalink: /plots/
   <button class="tablinks" onclick="openPlot(event, 'cont')" id="continents"> Continents </button>
   <button class="tablinks" onclick="openPlot(event, 'pol')" style="color:#005500" id="poland"> Poland </button>
   <button class="tablinks" onclick="openPlot(event, 'ch')" style="color:#005500" id="swiss"> Switzerland </button>
-  <button class="tablinks" onclick="openPlot(event, 'nz')" id="choosen"> New cases <br> <small> selected countries </small> </button>
+  <button class="tablinks" onclick="openPlot(event, 'nc')" id="choosen"> New cases <br> <small> selected countries </small> </button>
   <button class="tablinks" onclick="openPlot(event, 'other')" id="others"> Other Charts </button>
 </div>
 
@@ -167,50 +167,77 @@ permalink: /plots/
                  <a href="#" class="top" onclick="document.getElementById('choosen').click()"> Next > </a> </p>
 </div>
 
-<div id="nz" class="tabcontent">
+<div id="nc" class="tabcontent">
     <br><br><br><br>
+    Europe: <a href="#chch">Switzerland</a>, <a href="#pl">Poland</a>, <a href="#cz">Czechia</a>, <a href="#sk">Slovakia</a>, <a href="#sl">Slovenia</a>, <a href="#ua">Ukraine</a>, <a href="#ro">Romania</a>,
+        <a href="#hu">Hungary</a>, <a href="#at">Austria</a>, <a href="#gr">Germany</a>, <a href="#es">Spain</a>, <a href="#an">Andorra</a>, <a href="#uk">United Kingdom</a>
+        <br> Others:  <a href="#is">Israel</a>, <a href="#in">India</a>, <a href="#np">Nepal</a>, <a href="#jp">Japan</a>, <a href="#nz">New Zealand</a>,
+        <a href="#au">Australia</a>, <a href="#sa">South Africa</a>, <a href="#me">Mexico</a>, <a href="#us">United States</a>
+    <br><br><br>
+    <a id="chch"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Switzerland.jpg" width="80%" height="500" alt="ch" >
     <br><br><br><br>
+    <a id="pl"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Poland.jpg" width="80%" height="400" alt="pl" >
     <br><br><br><br>
+    <a id="cz"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Czechia.jpg" width="80%" height="400" alt="cz" >
     <br><br><br><br>
+    <a id="sk"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Slovakia.jpg" width="80%" height="400" alt="sk" >
     <br><br><br><br>
+    <a id="sl"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Slovenia.jpg" width="80%" height="400" alt="sl" >
     <br><br><br><br>
+    <a id="ua"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Ukraine.jpg" width="80%" height="400" alt="uk" >
     <br><br><br><br>
+    <a id="ro"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Romania.jpg" width="80%" height="400" alt="ro" >
     <br><br><br><br>
+    <a id="hu"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Hungary.jpg" width="80%" height="400" alt="hu" >
     <br><br><br><br>
+    <a id="at"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Austria.jpg" width="80%" height="400" alt="at" >
     <br><br><br><br>
+    <a id="gr"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Germany.jpg" width="80%" height="400" alt="de" >
     <br><br><br><br>
+    <a id="es"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Spain.jpg" width="80%" height="400" alt="es" >
     <br><br><br><br>
+    <a id="an"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Andorra.jpg" width="80%" height="400" alt="au" >
     <br><br><br><br>
+    <a id="uk"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_United_Kingdom.jpg" width="80%" height="400" alt="uk" >
     <br><br><br><br>
+    <a id="is"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Israel.jpg" width="80%" height="400" alt="il" >
     <br><br><br><br>
+    <a id="in"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_India.jpg" width="80%" height="400" alt="in" >
     <br><br><br><br>
+    <a id="np"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Nepal.jpg" width="80%" height="400" alt="np" >
     <br><br><br><br>
+    <a id="jp"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="400" alt="jp" >
     <br><br><br><br>
+    <a id="nz"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="400" alt="nz" >
     <br><br><br><br>
+    <a id="au"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Australia.jpg" width="80%" height="400" alt="au" >
     <br><br><br><br>
+    <a id="sa"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_South_Africa.jpg" width="80%" height="400" alt="au" >
     <br><br><br><br>
+    <a id="me"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Mexico.jpg" width="80%" height="400" alt="mx" >
     <br><br><br><br>
+    <a id="us"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_United_States.jpg" width="80%" height="400" alt="us" >
     <br><br>
     <p id="top"> <a href="#" class="top" onclick="document.getElementById('swiss').click()"> < Previous </a> &nbsp;&nbsp; 
