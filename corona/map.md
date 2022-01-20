@@ -5,7 +5,7 @@ permalink: /map/
 
 <br>
 <div class="tab">
-  <button class="tablinks" onclick="openPlot(event, 'wo')" id="defaultOpen"> <b> World </b> - with ranking </button>
+  <button class="tablinks" onclick="openPlot(event, 'wo')" id="defaultOpen"> <b> World </b> </button>
   <button class="tablinks" onclick="openPlot(event, 'wo_2')"> <b> World </b> - two weeks</button>
   <button class="tablinks" onclick="openPlot(event, 'wo_3')"> <b> World </b> - vaccination</button>
   <button class="tablinks" onclick="openPlot(event, 'eu')" style="color:#000088"> <b> Europe </b> </button>
