@@ -13,12 +13,12 @@ layout: theta
     </td>
     <td> 
       <abbr title="Ranking of infected countries"> <lli> <a href="tab">
-      <big> Rank </big> <br> <img  class="center fit" src="corona/plots/tab_mini.jpeg" alt="Rank"  > 
+      <big> Tables </big> <br> <img  class="center fit" src="corona/plots/tab_mini.jpeg" alt="Tables"  > 
       </a></lli> </abbr>
     </td>
     <td> 
       <abbr title="Map with the virus spread"> <lli> <a href="map">
-      <big> Map </big> <br> <img  class="center fit" src="corona/plots/map_mini.jpeg" alt="Map"> 
+      <big> Maps </big> <br> <img  class="center fit" src="corona/plots/map_mini.jpeg" alt="Maps"> 
       </a></lli> </abbr>
     </td>
 
