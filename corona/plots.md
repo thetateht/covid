@@ -18,13 +18,15 @@ permalink: /plots/
 
 <div id="big" class="tabcontent">
     <br><br>
-    <img class="center fit" src="./../corona/plots/C19_BIG_0.jpg"  alt="plot 0a"> 
+    <img class="center fit" src="./../corona/plots/C19_BIG_a.jpg"  alt="plot big_a"> 
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_BIG_0b.jpg"  alt="plot 0b"> 
+    <img class="center fit" src="./../corona/plots/C19_BIG_b.jpg"  alt="plot big_b"> 
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_BIG_1.jpg" alt="plot 1" >
+    <img class="center fit" src="./../corona/plots/C19_BIG_c.jpg"  alt="plot big_c"> 
     <br><br><br><br>
-    <img class="center fit" src="./../corona/plots/C19_BIG_2.jpg" alt="plot 2" >
+    <img class="center fit" src="./../corona/plots/C19_BIG_d.jpg" alt="plot big_d" >
+    <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_e.jpg" alt="plot big_e" >
     <br><br><br><br>
    <!-- <center><embed src="./../corona/plots/C19_log_BIG.html" width="95%" height="800" /> </center> 
     <br><br><br><br> -->
