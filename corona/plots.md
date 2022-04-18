@@ -231,6 +231,9 @@ permalink: /plots/
     <a id="jp"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Japan.jpg" width="80%" height="400" alt="jp" >
     <br><br><br><br>
+    <a id="jp"></a>
+    <img class="center fit" src="./../corona/plots/C19_daily_China.jpg" width="80%" height="400" alt="chi" >
+    <br><br><br><br>
     <a id="nz"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_New_Zealand.jpg" width="80%" height="400" alt="nz" >
     <br><br><br><br>
