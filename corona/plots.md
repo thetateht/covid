@@ -22,6 +22,8 @@ permalink: /plots/
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_b.jpg"  alt="plot big_b"> 
     <br><br><br><br>
+    <img class="center fit" src="./../corona/plots/C19_BIG_b2.jpg"  alt="plot big_b2"> 
+    <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_c.jpg"  alt="plot big_c"> 
     <br><br><br><br>
     <img class="center fit" src="./../corona/plots/C19_BIG_d.jpg" alt="plot big_d" >
