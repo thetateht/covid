@@ -173,16 +173,20 @@ permalink: /plots/
 
 <div id="nc" class="tabcontent">
     <br><br><br><br>
-    Europe: <a href="#chch">Switzerland</a>, <a href="#pl">Poland</a>, <a href="#cz">Czechia</a>, <a href="#sk">Slovakia</a>, <a href="#sl">Slovenia</a>, <a href="#ua">Ukraine</a>, <a href="#ro">Romania</a>,
-        <a href="#hu">Hungary</a>, <a href="#at">Austria</a>, <a href="#gr">Germany</a>, <a href="#es">Spain</a>, <a href="#an">Andorra</a>, <a href="#uk">United Kingdom</a>
+    Europe: <a href="#chch">Switzerland</a>, <a href="#pl">Poland</a>,<a href="#fi">Finland</a>, <a href="#cz">Czechia</a>, <a href="#sk">Slovakia</a>, <a href="#sl">Slovenia</a>, 
+            <a href="#ua">Ukraine</a>, <a href="#ro">Romania</a>,<a href="#hu">Hungary</a>, <a href="#at">Austria</a>, <a href="#gr">Germany</a>, <a href="#es">Spain</a>,
+            <a href="#an">Andorra</a>, <a href="#uk">United Kingdom</a>
         <br> Others:  <a href="#is">Israel</a>, <a href="#in">India</a>, <a href="#np">Nepal</a>, <a href="#jp">Japan</a>, <a href="#chi">China</a>, <a href="#nz">New Zealand</a>,
         <a href="#au">Australia</a>, <a href="#sa">South Africa</a>, <a href="#me">Mexico</a>, <a href="#us">United States</a>
     <br><br><br>
-    <a id="chch"></a>
-    <img class="center fit" src="./../corona/plots/C19_daily_Switzerland.jpg" width="80%" height="500" alt="ch" >
-    <br><br><br><br>
     <a id="pl"></a>
-    <img class="center fit" src="./../corona/plots/C19_daily_Poland.jpg" width="80%" height="400" alt="pl" >
+    <img class="center fit" src="./../corona/plots/C19_daily_Poland.jpg" width="80%" height="500" alt="pl" >
+    <br><br><br><br>
+    <a id="chch"></a>
+    <img class="center fit" src="./../corona/plots/C19_daily_Switzerland.jpg" width="80%" height="400" alt="ch" >
+    <br><br><br><br>
+    <a id="fi"></a>
+    <img class="center fit" src="./../corona/plots/C19_daily_Finland.jpg" width="80%" height="400" alt="fi" >
     <br><br><br><br>
     <a id="cz"></a>
     <img class="center fit" src="./../corona/plots/C19_daily_Czechia.jpg" width="80%" height="400" alt="cz" >
